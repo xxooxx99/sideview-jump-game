@@ -19,7 +19,6 @@
 | `readme.md`           |                                |
 | `src`                 | 서버 코드                      |
 | ├── `app.js`          |                                |
-| ├── `constants.js`    |                                |
 | `handlers`            | 비즈니스 로직                  |
 | ├── `game.handler.js` |                                |
 | ├── `handlerMapping.js` | (현재 비어있음)             |

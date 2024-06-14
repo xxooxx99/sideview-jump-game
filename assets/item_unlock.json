@@ -1,0 +1,7 @@
+{
+    "itemUnlock": [
+      { "stageId": 1000, "items": [1] },
+      { "stageId": 1001, "items": [1, 2] },
+      { "stageId": 1002, "items": [1, 2, 3] }
+    ]
+}

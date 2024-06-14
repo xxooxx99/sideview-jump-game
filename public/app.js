@@ -1,3 +1,4 @@
+//클라이언트 코드
 const socket = io();
 
 const canvas = document.getElementById('game-canvas');
